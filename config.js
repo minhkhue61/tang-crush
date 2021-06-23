@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Chưa nha 😊😊',
     question:'IU CẬU 😘❤️ - Chúc cậu ngủ ngon nhé ❤️❤️',
     btnReply: 'Gửi cho bạn Khuê cute <3',
-    reply: 'Buổi tối vui vẻ nè ngủ sớm nhé !',
+    reply: 'Buổi tối vui vẻ nha 😘 ngủ sớm nhé !',
     mess: 'iu iu 🥰. Ngủ sớm nhé 😘😘',
     messDesc: 'Chúc công chúa ngủ ngon 🥰🥰',
     btnAccept: 'Okiiiii lun <3',
