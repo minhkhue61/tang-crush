@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'mày à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Cậu à!',
+    introDesc: `Gọi tớ là phép so sánh vì không thể nào thiếu "cậu"`,
+    btnIntro: 'Thương cậu',
+    title: 'Chúc cậu một buổi tối vui vẻ nha 🥰',
+    desc: 'Thưn cậu nhất luôn 😘😘',
+    btnYes: 'Tớ cũng thế',
+    btnNo: 'Chưa nha 😊😊',
+    question:'IU CẬU 😘❤️ - Chúc cậu ngủ ngon nhé ❤️❤️',
+    btnReply: 'Gửi cho bạn Khuê cute <3',
+    reply: 'Buổi tối vui vẻ nè ngủ sớm nhé !',
+    mess: 'iu iu 🥰. Ngủ sớm nhé 😘😘',
+    messDesc: 'Chúc công chúa ngủ ngon 🥰🥰',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/minhkhue61/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
