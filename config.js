@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Cậu à!',
     introDesc: `Gọi tớ là phép so sánh vì không thể nào thiếu "cậu"`,
     btnIntro: 'Thương cậu',
-    title: 'Chúc cậu một buổi tối vui vẻ nha 🥰',
+    title: 'Chúc cậu một buổi tối vui vẻ 🥰',
     desc: 'Thưn cậu nhất luôn 😘😘',
     btnYes: 'Tớ cũng thế',
     btnNo: 'Chưa nha 😊😊',
